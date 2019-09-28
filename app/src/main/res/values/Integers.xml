@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="my_config_activityDefaultDur">220</integer>
+    <integer name="my_config_activityShortDur">150</integer>
+    <integer name="my_config_activityLongDur">400</integer>
+</resources>
